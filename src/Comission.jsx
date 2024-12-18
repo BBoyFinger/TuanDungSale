@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { FaEdit, FaTrash, FaPlus } from "react-icons/fa";
-import axios from "axios";
 import instance from "../util/config";
 
 const Commission = () => {
